@@ -31,27 +31,33 @@ This project is built using:
 
 
 What things you need to install the software and how to install them:
-
+```bash
 - XAMPP or any other local server that supports PHP
 - Any modern web browser
+```
 
 ## Installing
+
 A step-by-step series of examples that tell you how to get a development environment running:
 
 ### Clone the repository to your local machine:
-git clone
+
+git clone:
+```
 https://github.com/Ahmedshahbazz/national-testing-service-site.git
+```
 
 ### Navigate to the project directory:
-
+```
 cd national-testing-service-site
+```
 
 ### Start your local server (e.g., XAMPP) and place the project in the htdocs (or equivalent) directory.
 
 ### Open a web browser and navigate to:
-
+```
 http://localhost/national-testing-service-site
-
+```
 ### Follow the on-screen instructions to set up the site.
 
 ## Usage
