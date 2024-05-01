@@ -1,0 +1,28 @@
+# Set default behavior for all files
+* text=auto
+
+# Handle line endings and whitespace for web development files
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.php text eol=lf
+
+# Minified files treated as binary and excluded from language stats
+*.min.js binary linguist-vendored=true
+*.min.css binary linguist-vendored=true
+
+# Image files to be treated as binary to avoid corruption
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+
+# Documentation and third-party libraries
+/docs/* linguist-documentation
+/third-party/* linguist-vendored
+
+# Enhance diff for specific file types
+*.html diff=html
+*.css diff=css
+*.js diff=js
+*.php diff=php
