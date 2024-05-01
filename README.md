@@ -38,23 +38,24 @@ What things you need to install the software and how to install them:
 ## Installing
 A step-by-step series of examples that tell you how to get a development environment running:
 
-1. Clone the repository to your local machine:
+### Clone the repository to your local machine:
+git clone
+https://github.com/Ahmedshahbazz/national-testing-service-site.git
 
-git clone https://github.com/Ahmedshahbazz/national-testing-service-site.git
-
-2. Navigate to the project directory:
+### Navigate to the project directory:
 
 cd national-testing-service-site
 
-3. Start your local server (e.g., XAMPP) and place the project in the htdocs (or equivalent) directory.
+### Start your local server (e.g., XAMPP) and place the project in the htdocs (or equivalent) directory.
 
-4. Open a web browser and navigate to:
+### Open a web browser and navigate to:
 
 http://localhost/national-testing-service-site
 
-5. Follow the on-screen instructions to set up the site.
+### Follow the on-screen instructions to set up the site.
 
 ## Usage
+
 Brief examples of how to use the site:
 
 For users: Create an account and log in to take tests.
@@ -62,6 +63,7 @@ For admins: Log in to the admin panel to create and manage tests.
 
 
 ## License
+
 This project is licensed under the MIT License 
 
 ## Contact
